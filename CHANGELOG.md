@@ -8,12 +8,19 @@
 [//]: # " - [Bug Fix]"
 [//]: # " - Fix the bug."
 
+## Version 0.2.0 (October 2nd, 2020)
+
+### Summary
+
+### All Changes
+
+- Add optimal QPR decomposition for depolarizing noise (@karalekas, gh-371).
+
 ## Version 0.1.0 (September 2nd, 2020)
 
 ### Summary
 
 This marks the first public release of Mitiq on a stable version.
-
 
 ### All Changes
 
